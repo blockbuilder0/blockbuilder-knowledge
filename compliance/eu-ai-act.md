@@ -1,6 +1,6 @@
 # EU AI Act in unseren Projekten
 
-Der EU AI Act ist seit 2024 in Kraft. Pflichten greifen gestuft bis 2027. Wir berücksichtigen ihn in jedem Projekt, in dem KI eingesetzt wird — nicht als Audit-Pflicht­übung, sondern als Architektur-Filter.
+Der EU AI Act ist seit 2024 in Kraft. Pflichten greifen gestuft — nach dem Digital Omnibus (Mai 2026) bis voraussichtlich Ende 2027 (Annex III) bzw. August 2028 (Annex I); Verbote, KI-Kompetenz und GPAI-Pflichten gelten bereits seit 2025. Details: compliance/eu-ai-act-leitfaden.md Wir berücksichtigen ihn in jedem Projekt, in dem KI eingesetzt wird — nicht als Audit-Pflicht­übung, sondern als Architektur-Filter.
 
 ## Vorgehen pro Projekt
 
